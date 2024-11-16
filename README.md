@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bavindu Shamen and I'm a Undergraduate from University of Colombo School of Computing</p>
+<p align="left">My name is Bavindu Shamen and I'm a Undergraduate from <b></b>University of Colombo School of Computing</b></p>
 
 ###
 
