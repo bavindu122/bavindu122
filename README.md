@@ -30,28 +30,28 @@
 <img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 const bavindu = {
-name: "Bavindu Shamen",
-location: "Sri Lanka 🇱🇰",
-education: "University of Colombo - School of Computing",
-currentFocus: ["Advanced JavaFX", "PHP", "MySQL", "Problem Solving"],
-funFact: "Debugging is like being a detective in a crime movie 🕵️‍♂️",
-lifePhilosophy: "Code with purpose, debug with patience",
+  name: "Bavindu Shamen",
+  location: "Sri Lanka 🇱🇰",
+  education: "University of Colombo - School of Computing",
+  currentFocus: ["Spring Framework", "Postgre", "Game Dev", "Researching"],
+  funFact: "Debugging is like being a detective in a crime movie 🕵️‍♂️",
+  lifePhilosophy: "Code with purpose, debug with patience",
 
-currentlyDoing: () => {
+  currentlyDoing: () => {
     return [
         "🔨 Building awesome projects",
         "📚 Learning new technologies", 
         "🐛 Creating bugs... I mean features!",
         "☕ Converting coffee to code"
     ];
-},
+  },
 
-goals2025: [
+  goals2025: [
     "🎯 Master full-stack development",
     "🚀 Contribute to open source",
     "📈 Build impactful solutions",
     "🧠 Solve complex problems elegantly"
-]
+  ]
 };
 
 ---
@@ -62,17 +62,17 @@ goals2025: [
 
 ### **Languages & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,php,python,c,r,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,java,php,python,c,r,html,css,python,django" />
 </p>
 
 ### **Tools & Platforms** 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,intellij,git,mysql,apache,wordpress,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=vscode,intellij,git,mysql,apache,wordpress,figma,photoshop,capcut" />
 </p>
 
 ### **Currently Exploring** 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,docker" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,docker,springboot" />
 </p>
 
 </div>
@@ -122,9 +122,9 @@ goals2025: [
 
 | 🚧 In Progress | 🎯 Planning | ✅ Completed |
 |:---:|:---:|:---:|
-| Advanced JavaFX App | React Portfolio | Basic Web Projects |
-| PHP E-commerce Site | Mobile App | University Assignments |
-| MySQL Database Design | Open Source Contrib | Problem Solving Practice |
+| 3rd Year Project | React Portfolio | 2nd Year Project |
+| Research  | Mobile App |PHP E-commerce Site|
+| A New Game | Open Source Contrib | Problem Solving Practice |
 
 </div>
 
@@ -185,8 +185,7 @@ goals2025: [
   
   ### 💡 "Code is like poetry - it should be elegant, meaningful, and occasionally incomprehensible to others!"[1]
   
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/bavindu122/bavindu122/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
   
   <!-- Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
