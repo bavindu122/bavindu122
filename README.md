@@ -143,7 +143,7 @@ const bavindu = {
 <div align="center">
   
   <!-- Animated Social Icons -->
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/bavindu-shamen-099053264/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
   </a>
   
@@ -175,7 +175,7 @@ const bavindu = {
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
   
   <!-- Spotify Playing -->
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=58a6ff" alt="Spotify Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=xi9tv6quxgrb9jl5ydgaetsgp&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=58a6ff" alt="Spotify Playing" />
   
 </div>
 
